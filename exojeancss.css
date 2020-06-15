@@ -1,0 +1,36 @@
+h1
+{ 
+ color: crimson;
+ text-decoration: underline;
+ font-size: 3.4em;
+}
+
+.p1
+{
+ text-indent: 10% !important; 
+ width: 35%;
+ font-style: italic;
+ text-align: justify;
+
+}
+
+.p1 span
+{ 
+ border: 2px solid blue;
+
+}
+
+.p2
+{
+ margin: 10%;
+}
+
+.p3
+{
+ background-color: green;
+ font-size: 2em;
+ font-weight: bold;
+ color: white;
+ padding: 5%;
+animation: 1s;
+}
